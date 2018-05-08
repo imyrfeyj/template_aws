@@ -3,5 +3,5 @@
 image: "ami-80861296"
 instance_type: "t2.small"
 count: "1"
-volume_size: "20"
+volume_size: "10"
 subnet: "{{ public_subnet_id }}"
